@@ -9,12 +9,40 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконав(-ла):** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+_Cтуденти 2-го курсу, групи ІО-04_
 
+
+**Денис МИНТУС** [Telegram](https://t.me/Avereng)
+
+</div>
+
+**Олександр НОЗДРІН** [Telegram](https://t.me/Yelisentiy)
+
+</div>
+
+**Ігнатій МОЛОЧКО** [Telegram](https://t.me/prostopochemubiinet)
+
+</div>
+
+**Ілля ШЕВЧЕНКО** [Telegram](https://t.me/uukpa56)
+
+</div>
+
+**Олександр ПЛЕХАНОВ** [Telegram](https://t.me/Serpent_head)
+
+</div>
+
+**Юля Бондаренко** [Telegram](https://t.me/jbndrnk)
+
+</div>
+
+**Ігор ХРЕБТОВИЧ** [Telegram](https://t.me/Actually_Sliva)
+
+</div>
 
 **Керівник**
 
-*доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
+_доцент кафедри ОТ ФІОТ, к.т.н., доцент_<span padding-right:5em></span> **Андрій БОЛДАК**
 
 [НТУУ "КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ імені ІГОРЯ СІКОРСЬКОГО](https://kpi.ua/)
 
