@@ -32,7 +32,7 @@ _Cтуденти 2-го курсу, групи ІО-04_
 
 </div>
 
-**Юля Бондаренко** [Telegram](https://t.me/jbndrnk)
+**Юля БОНДАРЕНКО** [Telegram](https://t.me/jbndrnk)
 
 </div>
 
