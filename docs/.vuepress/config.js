@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/edu_db_labs/',
+  base: '/odms/',
   theme: 'cool',
   // dest: 'dist',
   head: [
@@ -95,7 +95,7 @@ module.exports = {
     // editLinkText: 'Ви можете покращити цю сторінку'
 
   },
-  title: 'Назва проєкту',
+  title: 'Система управління відкритими данними',
   description: 'Лабораторні роботи з дисципліни "Організація баз даних"',
   configureWebpack: {
     resolve: {
